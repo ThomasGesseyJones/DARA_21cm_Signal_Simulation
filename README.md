@@ -8,13 +8,11 @@
 | Version               | 0.1.0                                                                                                                                                                                                                   |
 | Colab                 | [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThomasGesseyJones/DARA_21cm_Signal_Simulation/blob/main/DARA_21cm_Signal_Simulation.ipynb) 
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThomasGesseyJones/DARA_21cm_Signal_Simulation/blob/main/DARA_21cm_Signal_Simulation.ipynb)
-
 
 ## Installation/Access Methods 
 
 ### Option 1
-The simplest way to get your a copy of the workbook is to click either of the above *Open in Colab* links or the one 
+The simplest way to get your a copy of the workbook is to click the above *Open in Colab* link or the one 
 at the top of the workbook (.ipyb file). 
 
 ### Option 2

@@ -1,0 +1,30 @@
+# This workflow will convert the README.md to an easier to distribute format (Colab_Sim_Setup.pdf) automatically 
+
+name: markdown_to_pdf
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Install pandoc and requirements 
+      run: sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
+    - name: Create setup.pdf
+      run: pandoc README.md -o Colab_Sim_Setup.pdf
+    - name: Commit pdf file 
+      run: |
+        pwd
+        git add Colab_Sim_Setup.pdf
+        git config --global user.name 'ThomasGesseyJones'
+        git config --global user.email 'ThomasGesseyJones@users.noreply.github.com'
+        git commit -am "Update Colab_Sim_Setup.pdf"
+        git push

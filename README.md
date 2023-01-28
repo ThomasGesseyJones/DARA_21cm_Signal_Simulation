@@ -25,7 +25,7 @@ https://colab.research.google.com/github/ThomasGesseyJones/DARA_21cm_Signal_Simu
 ### Option 3
 
 Open Google Colab, and when presented with the workbook selection pop-up window pick the GitHub tab. Then type into the 
-search box *ThomasGesseyJones/DARA* it should automatically find the workbook and list it underneath Path. Simply
+search box *ThomasGesseyJones/DARA* it should automatically find the workbook and list it underneath 'Path'. Simply
 click on the workbook name and it will open a copy of the workbook. 
 
 ### Option Avoiding Google Colab

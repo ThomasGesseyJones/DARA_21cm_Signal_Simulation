@@ -59,9 +59,6 @@ simulations.
 
 Finally, I would like to thank [Christian Kirkham](https://beta-decay.github.io/) for his testing of this workbook and his invaluable feedback. 
 
-If you have any feedback on the workbook or would like to contribute to it feel free to contact me at tg400@cam.ac.uk 
-or open a pull request on the Github repository where this workbook is hosted. 
-
 
 
 ## Contact

@@ -44,7 +44,8 @@ https://jupyter.org/
 
 ## Acknowledgments
 
-I would like to thank the organizers of the 2023 DARA Global 21-cm Astronomy Workshop for giving me the opportunity to present, and 
+I would like to thank the organizers of the [2023 DARA Global 21-cm Astronomy Workshop](https://www.sarao.ac.za/news/student-workshop-on-global-21cm-astronomy-experiments-and-technology-to-be-held-in-february-2023/)
+for giving me the opportunity to present, and 
 finally giving me the motivation to make this workbook, something I have wanted to do for some time. 
 
 The structure of this code is inspired by the private 21-cm signal simulation code developed over many years by 

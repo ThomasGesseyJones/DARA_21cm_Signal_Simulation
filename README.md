@@ -9,7 +9,6 @@
 | Colab                 | [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThomasGesseyJones/DARA_21cm_Signal_Simulation/blob/main/DARA_21cm_Signal_Simulation.ipynb) 
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThomasGesseyJones/DARA_21cm_Signal_Simulation/blob/main/DARA_21cm_Signal_Simulation.ipynb)
-[![Github All Releases](https://img.shields.io/github/downloads/ThomasGesseyJones/DARA_21cm_Signal_Simulation/total.svg)]()
 
 
 ## Installation/Access Methods 

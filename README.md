@@ -5,7 +5,7 @@
 | DARA 21-cm Sim | A simple semi-numerical 21-cm signal simulation in a Jupyter notebook                                                                                                                                                   |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Author                | Thomas Gessey-Jones                                                                                                                                                                                                                                                                 |
-| Version               | 0.3.0-dev                                                                                                                                                                                                                   |
+| Version               | 0.3.0                                                                                                                                                                                                                   |
 | Colab                 | [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThomasGesseyJones/DARA_21cm_Signal_Simulation/blob/main/DARA_21cm_Signal_Simulation.ipynb) 
 
 

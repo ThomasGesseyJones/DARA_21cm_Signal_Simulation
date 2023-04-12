@@ -5,7 +5,7 @@
 | DARA 21-cm Sim | A simple semi-numerical 21-cm signal simulation in a Jupyter notebook                                                                                                                                                   |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Author                | Thomas Gessey-Jones                                                                                                                                                                                                                                                                 |
-| Version               | 1.0.0                                                                                                                                                                                                                  |
+| Version               | 1.0.1                                                                                                                                                                                                                  |
 | Colab                 | [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThomasGesseyJones/DARA_21cm_Signal_Simulation/blob/main/DARA_21cm_Signal_Simulation.ipynb) 
 
 
@@ -53,8 +53,7 @@ and teaching me how to use and extend it. Several of the equations that are used
 [21-cm FAST paper](https://arxiv.org/abs/1003.3878), which remains an excellent more technical introduction to 21-cm signal 
 simulations. 
 
-Finally, I would like to thank [Christian Kirkham](https://beta-decay.github.io/) for his testing of this workbook and his invaluable feedback. 
-
+Finally, I would like to thank [Christian Kirkham](https://beta-decay.github.io/) for his extensive testing of this workbook, and [Shikhar Mital](https://sites.google.com/view/shikharmittal/home) for identifying a bug in an earlier version.
 
 
 ## Contact
